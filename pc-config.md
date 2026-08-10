@@ -22,7 +22,7 @@ Socket: AMD AM4 Socket Ryzen™ 2000 and 3000 Series
 
 ### RAM
 
-Name: [Corsair CMK32GX4M2D3600C18 (DDR4 PC4-28800 16GB)](https://www.corsair.com/us/en/p/memory/cmk32gx4m2d3600c18/vengeancea-lpx-32gb-2-x-16gb-ddr4-dram-3600mhz-c18-memory-kit-black-cmk32gx4m2d3600c18) x 2
+Name: [CORSAIR VENGEANCE LPX CMK32GX4M2D3600C18 (DDR4 PC4-28800 / 3600MHz 16GB)](https://www.corsair.com/us/en/p/memory/cmk32gx4m2d3600c18/vengeancea-lpx-32gb-2-x-16gb-ddr4-dram-3600mhz-c18-memory-kit-black-cmk32gx4m2d3600c18) x 2
 ### SSD
 
 1) Name: [Intel SSD 520 Series 120GB SATA6Gb/s (MLC)](https://ark.intel.com/content/www/us/en/ark/products/66248/intel-ssd-520-series-120gb-2-5in-sata-6gb-s-25nm-mlc.html)
